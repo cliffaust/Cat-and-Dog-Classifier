@@ -64,7 +64,7 @@ y_test = []
 
 for features, labels in train_data:
 	# the features are appended to the x_train
-	x_train.append(features)
+    x_train.append(features)
 	# the labels are appended to the y_train
     y_train.append(labels)
 
