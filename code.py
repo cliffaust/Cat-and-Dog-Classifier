@@ -51,7 +51,7 @@ def test():
             except:
                 pass
 
-training()
+train()
 test()
 
 random.shuffle(train_data)
